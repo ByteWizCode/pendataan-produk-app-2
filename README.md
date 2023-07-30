@@ -4,9 +4,8 @@
 ```
 Mengacu pada pembuatan aplikasi CRUD sebelumnya 
 Adapun aturannya adalah :
-a.	Buatlah laporan penjualan dari setiap item barang yang dijual dan keuntungan yang didapatkan.
-b.	Laporan juga dapat berbentuk grafik.
-
+a. Buatlah laporan penjualan dari setiap item barang yang dijual dan keuntungan yang didapatkan.
+b. Laporan juga dapat berbentuk grafik.
 ```
 # ScreenShots Page
 ![image](https://github.com/ByteWizCode/pendataan-produk-app-2/assets/136901319/3e1e0fef-cc77-49f6-87bf-4d95946fd038)
